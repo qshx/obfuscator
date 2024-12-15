@@ -1,0 +1,13 @@
+-charSet 'UTF-8'
+-classpath 'D:\\kr\\kr\\build\\classes\\java\\main;D:\\kr\\kr\\build\\resources\\main;C:\\Users\\Павел\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.logging.log4j\\log4j-core\\2.24.2\\9ba3a51ed9d80254b382dea521467de51797ac04\\log4j-core-2.24.2.jar;C:\\Users\\Павел\\.gradle\\caches\\modules-2\\files-2.1\\org.apache.logging.log4j\\log4j-api\\2.24.2\\daf49ee71f2664c3ff57412e4b43061e61a28596\\log4j-api-2.24.2.jar'
+-d 'D:\\kr\\kr\\build\\docs\\javadoc'
+-doctitle 'kr API'
+-encoding 'UTF-8'
+-notimestamp 
+-quiet 
+-windowtitle 'kr API'
+'D:\\kr\\kr\\src\\main\\java\\com\\example\\obfuscator\\FileUtils.java'
+'D:\\kr\\kr\\src\\main\\java\\com\\example\\obfuscator\\GuiFrame.java'
+'D:\\kr\\kr\\src\\main\\java\\com\\example\\obfuscator\\LoggingConfig.java'
+'D:\\kr\\kr\\src\\main\\java\\com\\example\\obfuscator\\Main.java'
+'D:\\kr\\kr\\src\\main\\java\\com\\example\\obfuscator\\ObfuscationService.java'

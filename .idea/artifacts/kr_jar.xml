@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="kr:jar">
+  <artifact type="jar" name="kr:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/kr_jar</output-path>
     <root id="archive" name="kr.jar">
       <element id="module-output" name="kr.main" />
